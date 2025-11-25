@@ -38,10 +38,4 @@ Experiments were conducted on **MNIST** and **FashionMNIST**.
 - Multilayer perceptrons (MLPs)  
 - Networks are **pretrained and frozen** during inversion.
 
-##  Paper
-
-This README summarizes the paper included in the repository:  
-**“Network Inversion for Training-Like Data Reconstruction: Effects of Pooling and Loss Design”** :contentReference[oaicite:1]{index=1}
-
-.
 
